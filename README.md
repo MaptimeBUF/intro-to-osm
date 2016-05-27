@@ -1,6 +1,6 @@
 # Introduction to OpenStreeMap
 
-This a presentation of MaptimeBUF meetup at May 25, 2016.
+This a presentation of [MaptimeBUF](http://maptime.io/buffalo/) at May 25, 2016.
 
 [![Link](https://raw.githubusercontent.com/MaptimeBUF/intro-to-osm/gh-pages/presentation-page.png)](http://maptimebuf.github.io/intro-to-osm)
 
