@@ -2,13 +2,13 @@
 
 This a presentation of MaptimeBUF meetup at May 25, 2016.
 
-[Link](http://maptimebuf.github.io/intro-to-osm)
+[![Link](https://raw.githubusercontent.com/MaptimeBUF/intro-to-osm/gh-pages/presentation-page.png)](http://maptimebuf.github.io/intro-to-osm)
 
 Presenters:
 
-* Lizzi Slivinski (@eSlivinski)
+* Lizzi Slivinski ([@eSlivinski](https://github.com/eSlivinski))
 
-* Haoliang Yu (@haoliangyu)
+* Haoliang Yu ([@haoliangyu](https://github.com/haoliangyu))
 
 Resources:
 
